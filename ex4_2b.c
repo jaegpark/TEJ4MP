@@ -1,3 +1,6 @@
+// Jae Park, TEJ4MP, Mr. Wong, 2021-03-17
+// This program implements a simple for loop
+
 #include <stdio.h>
 
 int main (){
