@@ -1,4 +1,6 @@
-// Jae 
+// Jae Park, TEJ4MP, Mr. Wong, 2021-03-17
+// This program implements a simple if statement
+
 #include <stdio.h>
 
 int main (){
